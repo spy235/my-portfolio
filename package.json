@@ -27,7 +27,7 @@
 		"styled-components": "^5.3.10",
 		"web-vitals": "^2.1.4"
 	},
-	"homepage": " https://spy235.github.io/",
+	"homepage": " https://spy235.github.io/my-portfolio",
 	"scripts": {
 		"start": "react-scripts start",
 		"build": "react-scripts build",

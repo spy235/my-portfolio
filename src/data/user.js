@@ -3,7 +3,7 @@ const INFO = {
 		title: "Portfolio site",
 		name: "Yashas J",
 		email: "yashasyash1234@gmail.com",
-		logo: "https://github.com/spy235/spy235.github/blob/main/public/logo.png?raw=true",
+		logo: "https://github.com/spy235/my-portfolio/blob/main/public/logo.png?raw=true",
 	},
 
 	socials: {

@@ -15,7 +15,7 @@ const Works = () => {
 					<div className="works-body">
 						<div className="work">
 							<img
-								src="https://github.com/spy235/spy235.github/blob/main/public/dbiz.ai.jpg?raw=true"
+								src="https://github.com/spy235/my-portfolio/blob/main/public/dbiz.ai.jpg?raw=true"
 								alt="facebook"
 								className="work-image"
 							/>

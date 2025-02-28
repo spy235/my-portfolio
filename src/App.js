@@ -27,7 +27,7 @@ function App() {
 		<div className="App">
 			<Routes basename={basename}>
 				<Route path="/my-portfolio" element={<Homepage />} />
-				<Route path="/my-portfolio/about" element={<About />} />
+				<Route path="/about" element={<About />} />
 				{/* <Route path="/projects" element={<Projects />} />
 				<Route path="/articles" element={<Articles />} />
 				<Route path="/article/:slug" element={<ReadArticle />} />

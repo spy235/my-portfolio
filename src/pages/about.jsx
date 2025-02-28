@@ -54,7 +54,7 @@ const About = () => {
 								<div className="about-image-container">
 									<div className="about-image-wrapper">
 										<img
-											src="https://github.com/spy235/spy235.github/blob/main/public/about.jpg?raw=true"
+											src="https://github.com/spy235/my-portfolio/blob/main/public/about.jpg?raw=true"
 											alt="about"
 											className="about-image"
 										/>
